@@ -1,4 +1,4 @@
-# Goals
+## Goals
 
 * Mathematically prepared
   * Statistics/Probability
@@ -11,7 +11,7 @@
   * Applied knowledge
 * Documented for future reference
 
-# Potential Primary Sources
+## Potential Primary Sources
 
 * [Khan Academy](https://www.khanacademy.org/)
 * [3blue1brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
@@ -22,19 +22,19 @@
 * [javascript30](https://javascript30.com/)
 * [freecodecamp](https://www.freecodecamp.org/)
 
-# Secondary Sources
+## Secondary Sources
 * [YDKJS](https://github.com/getify/You-Dont-Know-JS)
 * [Secrets of the JS Ninja](https://www.manning.com/books/secrets-of-the-javascript-ninja-second-edition)
 * [Basic Mathematics](https://www.amazon.com/Basic-Mathematics-Serge-Lang/dp/0387967877)
 
-# Process
+## Process
 1. Start with the most interesting topic - build until you hit a wall
 2. Identify knowledge gaps 
 3. Supplement with pertinent material
 4. Resume building where you left off
 5. Document what you built, how and why
 
-# Primary Flow (Night)
+## Primary Flow (Night)
 1. [fast.ai - Practical Deep Learning for Coders](http://course.fast.ai/)
 2. [fast.ai - Cutting Edge Deep Learning for Coders](http://course.fast.ai/part2.html)
 3. [3blue1brown - Essence of Linear Algebra](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
@@ -48,7 +48,7 @@
   * Supplemented by [Khan Academy - AP Calculus BC](https://www.khanacademy.org/math/ap-calculus-bc)
   * Supplemented by [Khan Academy - Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus)
 
-# Secondary Flow (Day)
+## Secondary Flow (Day)
 1. [Problem Solving w/C++](https://www.amazon.com/Problem-Solving-10th-Walter-Savitch/dp/0134448286/ref=sr_1_2?ie=UTF8&qid=1503446355&sr=8-2&keywords=problem+solving+with+c%2B%2B)
 2. [freecodecamp](https://www.freecodecamp.org/)
 3. [javascript30](https://javascript30.com/)
