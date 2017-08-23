@@ -5,5 +5,13 @@
 layout: default
 title: HodgePodge
 ---
-# Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Proin non quam sagittis, scelerisque quam id, tempus magna. Donec fermentum quis felis quis maximus. Integer eget enim interdum, laoreet nisi sed, gravida sem. Pellentesque blandit risus sit amet tortor volutpat consequat. Sed sed metus mollis, accumsan eros ut, cursus enim.
+# let the water hold me down
+I will _try_ even when I fully expect to fall flat on my face. As I fail I will _learn_ and through this struggle I will _grow_.
+
+Build. Build. Build. I will _build_ my way out of this place. 
+Build. Build. Build. I will _build_ when I don't see a way. 
+Build. Build. Build. I will _build_ until I'm not afraid.
+
+I will _always_ ask questions when I don't _understand_. I will _document_ where I found none.
+
+There is __strength__ within - _water flowing underground_.
