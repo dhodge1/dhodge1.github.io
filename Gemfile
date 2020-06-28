@@ -14,6 +14,8 @@ versions = JSON.parse(open('https://pages.github.com/versions.json').read)
 
 gem 'github-pages', versions['github-pages']
 
+gem "nokogiri", ">= 1.10.8"
+
 gem "jekyll", "3.5.2"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
